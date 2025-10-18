@@ -1,6 +1,5 @@
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDB6d2l6eWU4c2w5c3E5bW52cTRucjM3M2x1Z2g3cGJqZ3J0YnplMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="200" height="200"/>
 
   <h1>Hey there, I'm Jonas Crausos! 👋</h1>
   <h3>📍 Davao City, Philippines</h3>
@@ -11,8 +10,8 @@
   </p>
 
   <p>
-    <a href="#">🌐 Portfolio</a> |
-    <a href="#">🔗 LinkedIn</a> |
+    <a href="https://jonascrausos.vercel.app/">🌐 Portfolio</a> |
+    <a href="https://www.linkedin.com/in/jonas-crausos-111797165/">🔗 LinkedIn</a> |
     <a href="#">🐦 Twitter</a>
   </p>
 </div>
@@ -83,7 +82,7 @@ Here are some of the projects I'm proud of:
 
 ### 1. Offline Store POS App (Desktop, Mobile, Web)
 - **Description:** A comprehensive offline-first Point of Sale (POS) application for small retail businesses. It's built as a standalone desktop app (using Electron) that functions as a local server, allowing multiple cashier stations to connect over a local network.
-- **Demo:** <a href="#">Watch Demo</a>
+- **Demo:** <a href="https://www.youtube.com/watch?v=npIhZoBaSy8">Watch Demo</a>
 
 ### 2. Teacher's Desk
 - **Description:** A comprehensive, offline-first desktop application built with React and Electron, designed to be an all-in-one digital assistant for educators. The application empowers teachers to manage their classroom workflow efficiently through several key modules.
