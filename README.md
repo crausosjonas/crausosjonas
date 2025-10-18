@@ -1,4 +1,3 @@
-
 <div align="center">
 
   <h1>Hey there, I'm Jonas Crausos! 👋</h1>
@@ -11,8 +10,8 @@
 
   <p>
     <a href="https://jonascrausos.vercel.app/">🌐 Portfolio</a> |
-    <a href="https://www.linkedin.com/in/jonas-crausos-111797165/">🔗 LinkedIn</a> |
-    <a href="#">🐦 Twitter</a>
+    <a href="[#](https://www.linkedin.com/in/jonas-crausos-111797165/)">🔗 LinkedIn</a> |
+    <a href="https://www.facebook.com/jonas.crausos.3/">Facebook</a>
   </p>
 </div>
 
@@ -20,50 +19,46 @@
 
 ## 🛠️ My Tech Stack
 
-Here are a few technologies I've been working with recently:
+### Frontend Development
+<p>
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+    <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js"/>
+    <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white" alt="Nuxt.js"/>
+    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+    <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte"/>
+    <img src="https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=sveltekit&logoColor=white" alt="SvelteKit"/>
+    <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+</p>
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h4>Frontend Development</h4>
-      <ul>
-        <li>React & Next.js</li>
-        <li>Vue.js & Nuxt.js</li>
-        <li>Angular</li>
-        <li>Svelte & SvelteKit</li>
-        <li>Vite</li>
-        <li>JavaScript & TypeScript</li>
-        <li>HTML5 & CSS3</li>
-      </ul>
-    </td>
-    <td valign="top" width="50%">
-      <h4>Backend & Databases</h4>
-      <ul>
-        <li>Node.js</li>
-        <li>Firebase & Supabase</li>
-        <li>PostgreSQL</li>
-        <li>MongoDB</li>
-      </ul>
-      <h4>AI & Machine Learning</h4>
-      <ul>
-        <li>Google Gemini</li>
-        <li>Cursor AI</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <h4>Development Tools</h4>
-      <ul>
-        <li>Git & GitHub</li>
-        <li>VS Code</li>
-        <li>Figma</li>
-        <li>Android Studio</li>
-        <li>Electron</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+### AI & Machine Learning
+<p>
+    <img src="https://img.shields.io/badge/Google%20Gemini-4A89F3?style=for-the-badge&logo=google&logoColor=white" alt="Google Gemini"/>
+    <img src="https://img.shields.io/badge/Cursor-24282F?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor AI"/>
+</p>
+
+### Backend & Databases
+<p>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+    <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+</p>
+
+### Development Tools
+<p>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+    <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"/>
+    <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron"/>
+</p>
 
 ---
 
