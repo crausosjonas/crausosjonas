@@ -10,7 +10,7 @@
 
   <p>
     <a href="https://jonascrausos.vercel.app/">🌐 Portfolio</a> |
-    <a href="[#](https://www.linkedin.com/in/jonas-crausos-111797165/)">🔗 LinkedIn</a> |
+    <a href="https://www.linkedin.com/in/jonas-crausos-111797165/">🔗 LinkedIn</a> |
     <a href="https://www.facebook.com/jonas.crausos.3/">Facebook</a>
   </p>
 </div>
